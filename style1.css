@@ -1,0 +1,7 @@
+* {
+	box-sizing:border-box;
+}
+.p {
+	padding:40px;
+	margin: 60 0 80px 0;
+}
